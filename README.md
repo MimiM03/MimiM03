@@ -15,6 +15,10 @@ When I'm not working on a project or in college, I can be found making games wit
 
 ## 💻 Previous projects
 
+#### Data Engineering
+
+- [SQL Data Warehouse](https://github.com/MimiM03/sql-data-warehouse/)
+  
 #### Data Analytics
 
 - [CO2 Emissions Visualization (learning)](https://github.com/MimiM03/CO2-Emissions-Visualizaion)
