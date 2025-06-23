@@ -13,6 +13,9 @@ When I'm not working on a project or in college, I can be found making games wit
 
 ## 🔭 I'm currently working on
 
+- [SQL Data Warehouse](https://github.com/MimiM03/sql-data-warehouse/)
+- [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
+
 ## 💻 Previous projects
 
 #### Data Engineering
