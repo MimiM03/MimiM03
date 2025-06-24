@@ -1,15 +1,14 @@
-## Hi, My name is Mimi👋 
+## Hi, my name is Mimi👋 
 
-🌟 I am currenlty a Computer Science student at SeattleU and I am very interested in all things Data Engineering!
+🌟 I am currently a Computer Science student at SeattleU and I am very interested in all things Data Engineering!
 
-[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/688748696493359158)
-[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mimii_miteva)
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-i-miteva/)
 
 ## 🙋‍♂️ About me
 
 I'm from Bulgaria, currently studying in Seattle, WA, USA 🌎. I'm a huge fan of Python and SQL and I'm currently working towards the **Databricks Certified Data Engineer Associate** 💻.
-When I'm not working on a project or in college, I can be found making games with Unity and C# :video_game:, crocheting 🎀 or listening to music :musical_note:
+When I'm not working on a project or in college, I can be found making games with Unity and C#🎮, crocheting 🎀, listening to music 🎵 or painting nails 💅
+
 
 ## 🔭 I'm currently working on
 
