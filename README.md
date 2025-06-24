@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About me
 
-I'm from Bulgaria, currenlty studiying in Seattle, WA, USA 🌎. I'm a huge fan of Python and SQL and I'm currently working towards the **Databricks Certified Data Engineer Associate** 💻.
+I'm from Bulgaria, currently studying in Seattle, WA, USA 🌎. I'm a huge fan of Python and SQL and I'm currently working towards the **Databricks Certified Data Engineer Associate** 💻.
 When I'm not working on a project or in college, I can be found making games with Unity and C# :video_game:, crocheting 🎀 or listening to music :musical_note:
 
 ## 🔭 I'm currently working on
