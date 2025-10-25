@@ -6,14 +6,15 @@
 
 ## 🙋‍♂️ About me
 
-I'm from Bulgaria, currently studying in Seattle, WA, USA 🌎. I'm a huge fan of Python and SQL and I'm currently working towards the **Databricks Certified Data Engineer Associate** 💻.
+I'm from Bulgaria, currently studying in Seattle, WA, USA 🌎. I'm a huge fan of Python and SQL and I'm currently working on the **Automation of Security Processes for F5 - SeattleU Capstone Project** 💻.
 When I'm not working on a project or in college, I can be found making games with Unity and C#🎮, crocheting 🎀, listening to music 🎵 or painting nails 💅
 
 
 ## 🔭 I'm currently working on
 
 - [SQL Data Warehouse](https://github.com/MimiM03/sql-data-warehouse/)
-- [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
+- [ContosoCrafts Clone Website - ArtGallery](https://f5security.azurewebsites.net)
+- **Automation of Security Processes for F5 - SeattleU Capstone Project**
 
 ## 💻 Previous projects
 
