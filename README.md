@@ -12,12 +12,21 @@ When I'm not working on a project or in college, I can be found making games wit
 
 ## 🔭 I'm currently working on
 
-- [SQL Data Warehouse](https://github.com/MimiM03/sql-data-warehouse/)
-- [ContosoCrafts Clone Website - ArtGallery](https://f5security.azurewebsites.net)
+- [Bartender Simulator](https://github.com/MimiM03/the-crumbling-bar)
+- [Drone Companion](https://github.com/MimiM03/drone-companion)
 - **Automation of Security Processes for F5 - SeattleU Capstone Project**
 
 ## 💻 Previous projects
 
+#### Game Dev
+
+- [Bartender Simulator](https://github.com/MimiM03/the-crumbling-bar)
+- [Tetris Game](https://github.com/MimiM03/Tetris-Live-Demo)
+- [Unity Essentials (learning)](https://github.com/MimiM03/Unity-Essentials)
+
+### Robotics
+- [Drone Companion](https://github.com/MimiM03/drone-companion)
+  
 #### Data Engineering
 
 - [SQL Data Warehouse](https://github.com/MimiM03/sql-data-warehouse/)
@@ -33,10 +42,7 @@ When I'm not working on a project or in college, I can be found making games wit
 - [LGBTQ Education Page](https://github.com/MimiM03/lgbt-page)
 - [Chadwick Boseman Tribute Page](https://github.com/MimiM03/chadwickboseman-tribute)
 
-#### Game Dev
 
-- [Tetris Game](https://github.com/MimiM03/Tetris-Live-Demo)
-- [Unity Essentials (learning)](https://github.com/MimiM03/Unity-Essentials)
 
 ## 💻 Tech Stack
 
