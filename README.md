@@ -1,13 +1,13 @@
 ## Hi, my name is Mimi👋 
 
-🌟 I am currently a Computer Science student at SeattleU and I am very interested in all things Data Engineering!
+🌟 I am currently a Computer Science student at SeattleU!
 
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-i-miteva/)
 
 ## 🙋‍♂️ About me
 
 I'm from Bulgaria, currently studying in Seattle, WA, USA 🌎. I'm a huge fan of Python and SQL and I'm currently working on the **Automation of Security Processes for F5 - SeattleU Capstone Project** 💻.
-When I'm not working on a project or in college, I can be found making games with Unity and C#🎮, crocheting 🎀, listening to music 🎵 or painting nails 💅
+When I'm not working on a project or in college, I can be found making games with Unity and Godot 🎮, crocheting 🎀, listening to music 🎵 or painting nails 💅
 
 
 ## 🔭 I'm currently working on
